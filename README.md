@@ -28,10 +28,7 @@ Cada proyecto incluye su código fuente, capturas de pantalla, documentación y 
 
 * Desarrollo de aplicaciones web
 * Diseño de interfaces de usuario
-* Programación orientada a objetos
-* Uso de Laravel y arquitectura MVC
 * Gestión de bases de datos
-* Control de versiones con Git y GitHub
 * Documentación de proyectos
 
 ## Proyectos Incluidos
